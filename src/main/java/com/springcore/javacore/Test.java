@@ -13,5 +13,7 @@ public class Test {
 		st.study();
 		System.out.println(cl);
 		cl.work();
+		
+		
 	}
 }
